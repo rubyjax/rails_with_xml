@@ -24,3 +24,7 @@ $ rake db:setup
 $ rake
 
 ```
+
+# Sample API documentation
+
+http://rails-with-xml.docs.mockmachine.com/
