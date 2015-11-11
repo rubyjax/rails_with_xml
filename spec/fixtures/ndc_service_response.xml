@@ -1,0 +1,43 @@
+<response>
+  <resources>
+    <name>debtors</name>
+    <debtors>
+      <debtor>
+        <name>Micah Cooper</name>
+        <email>mrmicahcooper@gmail.com</email>
+        <phone>000-000-0000</phone>
+        <amount>99.0</amount>
+      </debtor>
+      <debtor>
+        <name>Micah Cooper</name>
+        <email>mrmicahcooper@gmail.com</email>
+        <phone>000-000-0000</phone>
+        <amount>99.0</amount>
+      </debtor>
+      <debtor>
+        <name>Micah Cooper</name>
+        <email>mrmicahcooper@gmail.com</email>
+        <phone>000-000-0000</phone>
+        <amount>99.0</amount>
+      </debtor>
+      <debtor>
+        <name>Micah Cooper</name>
+        <email>mrmicahcooper@gmail.com</email>
+        <phone>000-000-0000</phone>
+        <amount>99.0</amount>
+      </debtor>
+      <debtor>
+        <name>Micah Cooper</name>
+        <email>mrmicahcooper@gmail.com</email>
+        <phone>000-000-0000</phone>
+        <amount>99.0</amount>
+      </debtor>
+      <debtor>
+        <name>Micah Cooper</name>
+        <email>mrmicahcooper@gmail.com</email>
+        <phone>000-000-0000</phone>
+        <amount>99.0</amount>
+      </debtor>
+    </debtors>
+  </resources>
+</response>

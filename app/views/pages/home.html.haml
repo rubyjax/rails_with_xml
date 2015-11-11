@@ -1,1 +1,15 @@
-%h1 Welcome Home
+%h1 All Debtors
+
+- @debtors.each do |debtor|
+  %dl
+    %dt Name
+    %dd= debtor.name
+
+    %dt email
+    %dd= debtor.email
+
+    %dt phone
+    %dd= debtor.phone
+
+    %dt amount
+    %dd= debtor.amount
