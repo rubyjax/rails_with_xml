@@ -1,10 +1,10 @@
-require 'faraday'
-require 'haml'
+!!! XML
 
-class NdcService
-
-  def self.all_debtors
-    []
-  end
-
-end
+%xml
+  %resource
+    %name debtors
+    %fields
+      %field name
+      %field email
+      %field phone
+      %field amount
